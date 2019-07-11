@@ -1,6 +1,7 @@
 # Grafic Equalizer
 
 The purpose of this project is to create a device that performs the functions of a graphic equalizer.
+*(Using 555 timer, MSGEQ7, rotary encoder, Arduino[ATMEGA328])*
 
 * Schematic
 ![Schematic](https://e43lna.bl.files.1drv.com/y4mkTvWlAqcx_wYuEBh9nDQtk4fH5VTOEnPVZbpEpuagybo8N_bnUSK-jOqXapWE7Itl-_2KxLVhbccWiaexIjPAewtrTVcZteUFggM8V2pfLQ7J0DCD8oiJCbVuqi89hAr0-IEX13ZFhXagHhWNSFZfSRnUuZgW6bqz5tesUMbQupI3ame3GFhYEpoupPcMr7xRWbRraolQFUrynZZfv_IBQ/schematic.png?psid=1)
