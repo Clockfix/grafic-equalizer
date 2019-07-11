@@ -2,6 +2,8 @@
 
 The purpose of this project is to create a device that performs the functions of a graphic equalizer.
 
+* Schematic
+![Schematic](https://e43lna.bl.files.1drv.com/y4mkTvWlAqcx_wYuEBh9nDQtk4fH5VTOEnPVZbpEpuagybo8N_bnUSK-jOqXapWE7Itl-_2KxLVhbccWiaexIjPAewtrTVcZteUFggM8V2pfLQ7J0DCD8oiJCbVuqi89hAr0-IEX13ZFhXagHhWNSFZfSRnUuZgW6bqz5tesUMbQupI3ame3GFhYEpoupPcMr7xRWbRraolQFUrynZZfv_IBQ/schematic.png?psid=1)
 * PCB of grafic equalizer
 ![PCB](https://irtvjw.bl.files.1drv.com/y4mOHZwAcEG7R7-RJ3yUQoGNcJkALRIyWeCZHgCYNGMFe1wVdjjH1Kko4ZjboyMYrDCxCRsjPh0veufINJ75uB89eqNSkKQxuOTBkRsIIFsbKOur2s1X_88Zou1zuhABFbUPyPrZmvSq9bnJ8W6PM-yeKQLGHSfRovNgQ-sgshg27Fly9XeqD8WArj5soT4nbxNH5llIb0zYvJ_M_SPFI4uxg/plate-elements.png?psid=1)
 * Breadboard
